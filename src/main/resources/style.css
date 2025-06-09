@@ -1,0 +1,15 @@
+* {
+    -fx-font: normal bold 12px 'monospace';
+}
+
+HBox {
+    -fx-background-color: cadetblue;
+}
+
+Button {
+    -fx-background-color: azure ;
+}
+
+TextField {
+    -fx-background-color: azure ;
+}
