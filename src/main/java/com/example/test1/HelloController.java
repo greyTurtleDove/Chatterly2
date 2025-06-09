@@ -7,6 +7,7 @@ import javafx.scene.control.TextField;
 public class HelloController {
     @FXML
     private TextField messageTextField;
+    @FXML Label messagesLabel;
 
     @FXML
     protected void sendMessage() {

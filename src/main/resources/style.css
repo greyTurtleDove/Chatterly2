@@ -6,6 +6,10 @@ HBox {
     -fx-background-color: cadetblue;
 }
 
+VBox {
+    -fx-background-color: azure;
+}
+
 Button {
     -fx-background-color: azure ;
 }
