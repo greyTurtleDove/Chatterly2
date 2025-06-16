@@ -7,7 +7,7 @@ HBox {
 }
 
 VBox {
-    -fx-background-color: azure;
+    -fx-background-color: cadetblue;
 }
 
 Button {
@@ -15,5 +15,9 @@ Button {
 }
 
 TextField {
+    -fx-background-color: azure ;
+}
+
+ComboBox {
     -fx-background-color: azure ;
 }
